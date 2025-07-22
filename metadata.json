@@ -1,0 +1,5 @@
+
+{
+  "name": "Pixel Art Generator",
+  "description": "An application that uses Google's Imagen model to generate unique pixel art from text descriptions. Type a prompt and see your imagination come to life in a retro, pixelated style."
+}
